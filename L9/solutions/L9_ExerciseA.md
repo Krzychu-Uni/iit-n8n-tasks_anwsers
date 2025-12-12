@@ -4,4 +4,4 @@
 ![A2](A_Step_2-1.png)
 ![A3](A_Step_3.png)
 ![A3](A_Step_3-1.png)
-![A3](A_Step_3-2.png)
+![A3](A_Step_2-2.png)
