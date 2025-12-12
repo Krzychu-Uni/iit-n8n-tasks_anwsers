@@ -1,1 +1,7 @@
-
+![A1](A_Step_1.png)
+![A1](A_Step_1-1.png)
+![A2](A_Step_2.png)
+![A2](A_Step_2-1.png)
+![A3](A_Step_3.png)
+![A3](A_Step_3-1.png)
+![A3](A_Step_3-2.png)
